@@ -1,0 +1,78 @@
+*{
+     padding: 0;
+     margin: 0;
+     
+ }
+ body{
+     text-align: center;
+ 
+ }
+ 
+ 
+ #startGame-el{
+     color: aliceblue;
+     font-weight: bold;
+     font-size: 16px;
+     margin-top: 13px;
+     font-family: verdana;
+ }
+ 
+ #start{
+     margin-top: 10%;
+     background-color: aliceblue;
+     border: none;
+     padding: 1%;
+     border-radius: 5%;
+     width: 27%;
+ }
+ 
+ #star{
+     margin-top: 4%;
+     background-color: aliceblue;
+     border: none;
+     padding: 1%;
+     border-radius: 5%;
+     width: 25%;
+ }
+ 
+ 
+ .game{
+     width: 60%;
+     height: 70vh;
+     background-color:  rgb(12, 49, 214);
+     margin-left: 20%;
+     justify-content: center;
+     padding-top: 8%;
+     margin-bottom: 10%;
+ }
+ 
+ 
+ h4{
+     color: rgb(246, 127, 9);
+     font-size: 30px;
+     padding-bottom: 3px;
+     font-weight: bold;
+     font-family: sans-serif;
+ }
+ 
+ p{
+     font-family: sans-serif;
+     font-weight: bold;
+     margin: 2%;
+ }
+ 
+ 
+ #dates-el{
+     margin-bottom: 10%;
+     background:rgb(7, 141, 182);
+     width: 15%;
+     color: aliceblue;
+     border: none;
+     height: 25px;
+     cursor:pointer;
+ } 
+ 
+ 
+ 
+ 
+ 
